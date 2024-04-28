@@ -1,0 +1,29 @@
+body {
+  --bege: #E6E0D6;
+  --marrom-escuro: #816D4F;
+  --marrom-claro: #B29463;
+}
+
+
+
+/*Responsive*/
+
+@media (max-width: 320px) {
+
+}
+
+@media (min-width: 321px) and (max-width: 376px) {
+
+}
+
+@media (min-width:  377px) and (max-width: 576px) {
+
+}
+
+@media (min-width: 577px) and (max-width: 768px) {
+
+}
+  
+@media (min-width: 993px) and (max-width: 1200px) {
+
+}
