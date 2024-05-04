@@ -39,7 +39,7 @@ input[type="checkbox"]:focus {
 }
 
 .banner-1 {
-  background-image: url(/assets/banner-1.png);
+  background-image: url(assets/banner-1.png);
 }
 
 .banner-2{
@@ -60,7 +60,7 @@ input[type="checkbox"]:focus {
 }
 
 .margin-top-110 {
-  margin-top: 0px;
+  margin-top: 110px !important;
 }
 
 [data-bs-theme="dark"] {
