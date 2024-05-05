@@ -39,15 +39,15 @@ input[type="checkbox"]:focus {
 }
 
 .banner-1 {
-  background-image: url(assets/banner-1.png);
+  background-image: url(../assets/banner-1.png);
 }
 
 .banner-2{
-  background-image: url(/assets/banner-2.png);
+  background-image: url(../assets/banner-2.png);
 }
 
 .banner-3{
-  background-image: url(/assets/banner-3.png);
+  background-image: url(../assets/banner-3.png);
 }
 
 .banners-titulo {
@@ -60,7 +60,7 @@ input[type="checkbox"]:focus {
 }
 
 .margin-top-110 {
-  margin-top: 110px !important;
+  margin-top: 110px;
 }
 
 [data-bs-theme="dark"] {
